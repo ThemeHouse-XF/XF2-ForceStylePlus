@@ -1,0 +1,38 @@
+{
+    "Siropu-Chat-Pub-Controller-Chat_ThemeHouse-ForceStyle-Siropu-Chat-Pub-Controller-Chat.json": {
+        "hash": "b658e46c5ed83e1e303a5638d96dfddc"
+    },
+    "Siropu-Chat-Pub-Controller-Room_ThemeHouse-ForceStyle-Siropu-Chat-Pub-Controller-Room.json": {
+        "hash": "5ff779cb28f48717117b0d05d61bb43f"
+    },
+    "XF-Pub-Controller-Help_ThemeHouse-ForceStyle-XF-Pub-Controller-Help.json": {
+        "hash": "50f69d71aa5c957fdfe777d8b853c041"
+    },
+    "XF-Pub-Controller-Member_ThemeHouse-ForceStyle-XF-Pub-Controller-Member.json": {
+        "hash": "472d5af57b64eb428e6fecfc204916c7"
+    },
+    "XF-Pub-Controller-Online_ThemeHouse-ForceStyle-XF-Pub-Controller-Online.json": {
+        "hash": "eea6538b6eaf2dd72d5be5a56a7190b1"
+    },
+    "XFRM-Pub-Controller-Author_ThemeHouse-ForceStyle-XFRM-Pub-Controller-Author.json": {
+        "hash": "e66f7c91838b02e834d8c60afe9c161d"
+    },
+    "XFRM-Pub-Controller-Category_ThemeHouse-ForceStyle-XFRM-Pub-Controller-Category.json": {
+        "hash": "43e58c00f917fa171f582c6af24dd187"
+    },
+    "XFRM-Pub-Controller-ResourceItem_ThemeHouse-ForceStyle-XFRM-Pub-Controller-ResourceItem.json": {
+        "hash": "9b9a0aa70333a39ac60f4df9f985d23f"
+    },
+    "XFRM-Pub-Controller-ResourceReview_ThemeHouse-ForceStyle-XFRM-Pub-Controller-ResourceReview.json": {
+        "hash": "1b5740cb349bac94b036947e92a7ac1e"
+    },
+    "XFRM-Pub-Controller-ResourceUpdate_ThemeHouse-ForceStyle-XFRM-Pub-Controller-ResourceUpdate.json": {
+        "hash": "7419795764938f08f31186151a526f5b"
+    },
+    "XFRM-Pub-Controller-ResourceVersion_ThemeHouse-ForceStyle-XFRM-Pub-Controller-ResourceVersion.json": {
+        "hash": "7bd155f95706918a193aad81e4f5b7fe"
+    },
+    "XFRM-Pub-Controller-WhatsNewResource_ThemeHouse-ForceStyle-XFRM-Pub-Controller-WhatsNewResource.json": {
+        "hash": "6ca74d551b684ad46e31d1f974bc873a"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "option.thforcestyle_help.txt": {
+        "global_cache": false,
+        "version_id": 1000032,
+        "version_string": "1.0.0 Beta 2",
+        "hash": "b0834f480b3c05a002392b7f70188312"
+    },
+    "option.thforcestyle_help_pages.txt": {
+        "global_cache": false,
+        "version_id": 1000032,
+        "version_string": "1.0.0 Beta 2",
+        "hash": "448265c19e41f6a829f9678e98092a6e"
+    },
+    "option.thforcestyle_notable_members.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "eae19cc8fff8d7ce90d41f051b098b7a"
+    },
+    "option.thforcestyle_notable_members_pages.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "2cb3fcbf3709cc5bb8c30ff418877fa3"
+    },
+    "option.thforcestyle_siropu_chat.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "b02f37008ac08282a915910a7b8434f6"
+    },
+    "option.thforcestyle_siropu_chat_rooms.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "75d0f667d8cf22e4ac07d95dfaf99288"
+    },
+    "option.thforcestyle_xfrm.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "73b7542cee8169911fb7d6c51131329b"
+    },
+    "option_explain.thforcestyle_help.txt": {
+        "global_cache": false,
+        "version_id": 1000032,
+        "version_string": "1.0.0 Beta 2",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.thforcestyle_help_pages.txt": {
+        "global_cache": false,
+        "version_id": 1000032,
+        "version_string": "1.0.0 Beta 2",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.thforcestyle_notable_members.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.thforcestyle_notable_members_pages.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.thforcestyle_siropu_chat.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.thforcestyle_siropu_chat_rooms.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.thforcestyle_xfrm.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.thforcestyle.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "a10b59bdc1aad8739767311e8bab0751"
+    },
+    "option_group_description.thforcestyle.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "03016c41a5f9d46fa7002f44d9e68421"
+    },
+    "thforcestyle_chat_full_page.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "4367f76bdd240004e397192a5eda9bde"
+    },
+    "thforcestyle_siropu_chat_not_installed.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "0840601e44780f39b72ab977d7e0a14d"
+    },
+    "thforcestyleplus_current_visitors.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "b9020d0f9754321db2fa185a4c1ed06c"
+    },
+    "thforcestyleplus_help_overview.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "a2c011fd3d7db5d2aafc8de725e1e4b4"
+    },
+    "thforcestyleplus_members_list.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "2f8f2b10ee03a36a6e76d6892be7a93e"
+    },
+    "thforcestyleplus_members_overview.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "96950afe10ca8380351691ab8631d7a4"
+    }
+}

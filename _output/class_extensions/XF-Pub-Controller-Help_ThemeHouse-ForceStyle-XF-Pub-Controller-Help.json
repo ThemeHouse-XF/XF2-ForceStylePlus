@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Pub\\Controller\\Help",
+    "to_class": "ThemeHouse\\ForceStyle\\XF\\Pub\\Controller\\Help",
+    "execute_order": 10,
+    "active": true
+}

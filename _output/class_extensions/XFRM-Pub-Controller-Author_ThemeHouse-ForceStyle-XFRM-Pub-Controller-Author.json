@@ -1,0 +1,6 @@
+{
+    "from_class": "XFRM\\Pub\\Controller\\Author",
+    "to_class": "ThemeHouse\\ForceStyle\\XFRM\\Pub\\Controller\\Author",
+    "execute_order": 10,
+    "active": true
+}

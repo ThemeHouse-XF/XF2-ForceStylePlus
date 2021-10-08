@@ -1,0 +1,6 @@
+{
+    "from_class": "Siropu\\Chat\\Pub\\Controller\\Chat",
+    "to_class": "ThemeHouse\\ForceStyle\\Siropu\\Chat\\Pub\\Controller\\Chat",
+    "execute_order": 10,
+    "active": true
+}
